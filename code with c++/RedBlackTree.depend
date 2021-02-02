@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1608057400 source:f:\redblacktree\main.cpp
+	<iostream>
+	"RBT.h"
+
+1608298258 f:\redblacktree\include\rbt.h
+	<iostream>
+
+1608057591 source:f:\redblacktree\src\rbt.cpp
+
+1608662951 source:c:\users\zezoa\desktop\redblacktree\main.cpp
+	<iostream>
+	"RBT.h"
+
+1608662368 c:\users\zezoa\desktop\redblacktree\include\rbt.h
+	<iostream>
+
+1608585192 source:f:\fci\third level term 1\redblacktree\main.cpp
+	<iostream>
+	"RBT.h"
+
+1608585781 f:\fci\third level term 1\redblacktree\include\rbt.h
+	<iostream>
+
+1608658622 source:c:\users\home\onedrive\desktop\redblacktree\main.cpp
+	<iostream>
+	"RBT.h"
+
+1608658775 c:\users\home\onedrive\desktop\redblacktree\include\rbt.h
+	<iostream>
+
+1610140146 source:c:\users\zezoa\desktop\doc\algorithm\assingmnet\1\code with c++\main.cpp
+	<iostream>
+	"RBT.h"
+
+1610140502 c:\users\zezoa\desktop\doc\algorithm\assingmnet\1\code with c++\include\rbt.h
+	<iostream>
+
